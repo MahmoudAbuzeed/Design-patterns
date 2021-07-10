@@ -9,19 +9,24 @@ While class-creation patterns use inheritance effectively in the instantiation p
 <h3>Examples</h3>
 
 - Abstract Factory
-  Creates an instance of several families of classes
+
+  - Creates an instance of several families of classes
 
 - Builder
-  Separates object construction from its representation
+
+  - Separates object construction from its representation
 
 - Factory Method
-  Creates an instance of several derived classes
+
+  - Creates an instance of several derived classes
 
 - Object Pool
-  Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
+
+  - Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 
 - Prototype
-  A fully initialized instance to be copied or cloned
+
+  - A fully initialized instance to be copied or cloned
 
 - Singleton
-  A class of which only a single instance can exist
+  - A class of which only a single instance can exist

@@ -9,25 +9,32 @@ Structural object-patterns define ways to compose objects to obtain new function
 <h3>Examples</h3>
 
 - Adapter
-  Match interfaces of different classes
+
+  - Match interfaces of different classes
 
 - Bridge
-  Separates an object’s interface from its implementation
+
+  - Separates an object’s interface from its implementation
 
 - Composite
-  A tree structure of simple and composite objects
+
+  - A tree structure of simple and composite objects
 
 - Decorator
-  Add responsibilities to objects dynamically
+
+  - Add responsibilities to objects dynamically
 
 - Facade
-  A single class that represents an entire subsystem
+
+  - A single class that represents an entire subsystem
 
 - Flyweight
-  A fine-grained instance used for efficient sharing
+
+  - A fine-grained instance used for efficient sharing
 
 - Private Class Data
-  Restricts accessor/mutator access
+
+  - Restricts accessor/mutator access
 
 - Proxy
-  An object representing another object
+  - An object representing another object
