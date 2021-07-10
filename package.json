@@ -1,0 +1,21 @@
+{
+  "name": "DesignPatterns",
+  "version": "1.0.0",
+  "description": "- A design pattern is a general repeatable solution to a commonly occurring problem in software design. - A design pattern isn't a finished design that can be transformed directly into code. - It is a description or template for how to solve a problem that can be used in many different situations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudAbuzeed/Design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MahmoudAbuzeed/Design-patterns/issues"
+  },
+  "homepage": "https://github.com/MahmoudAbuzeed/Design-patterns#readme"
+}
