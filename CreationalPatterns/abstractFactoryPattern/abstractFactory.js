@@ -6,11 +6,11 @@ const vehicleFactory = {
   createVehicle: (type) => {
     switch (type.toLowerCase()) {
       case "car":
-        return new Car();
+        return new Car("car1", 4, "bmw");
       case "truck":
-        return new Truck();
+        return new Truck("truck", 6, "bmw");
       case "bike":
-        return new Bike();
+        return new Bike("bike", 2, "bmw");
       default:
         return null;
     }

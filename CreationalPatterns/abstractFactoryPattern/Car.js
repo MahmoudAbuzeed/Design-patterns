@@ -1,6 +1,6 @@
-export default class Car {
-  constructor() {
-    this.name = "Car";
-    this.wheels = 4;
+import Vehicle from "./Vehicle.js";
+export default class Car extends Vehicle {
+  constructor(name, wheels, brand) {
+    super(name, wheels, brand);
   }
 }
